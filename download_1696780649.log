@@ -1,0 +1,163 @@
+INFO:root:Start downloading non-youtube videos.
+INFO:root:gloss: book, video: 69241.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/book.mp4
+INFO:root:gloss: book, video: 65225.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOOK-418.mp4
+ERROR:root:Unsuccessful downloading - video 65225
+INFO:root:gloss: book, video: 68011.
+WARNING:root:Skipping YouTube video 68011
+INFO:root:gloss: book, video: 68208.
+WARNING:root:Skipping YouTube video 68208
+INFO:root:gloss: book, video: 68012.
+WARNING:root:Skipping YouTube video 68012
+INFO:root:gloss: book, video: 70212.
+WARNING:root:Skipping YouTube video 70212
+INFO:root:gloss: book, video: 70266.
+WARNING:root:Skipping YouTube video 70266
+INFO:root:gloss: book, video: 07085.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_english_grammar.swf
+INFO:root:gloss: book, video: 07086.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_geography.swf
+INFO:root:gloss: book, video: 07087.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_geometry.swf
+INFO:root:gloss: book, video: 07069.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Book.mp4
+INFO:root:gloss: book, video: 07088.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_history.swf
+INFO:root:gloss: book, video: 07089.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_law.swf
+INFO:root:gloss: book, video: 07090.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_literature.swf
+INFO:root:gloss: book, video: 07091.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_math.swf
+INFO:root:gloss: book, video: 07092.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_medicine.swf
+INFO:root:gloss: book, video: 07093.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_music.swf
+INFO:root:gloss: book, video: 07068.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/book.mp4
+INFO:root:gloss: book, video: 07094.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_photography.swf
+INFO:root:gloss: book, video: 07095.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_science.swf
+INFO:root:gloss: book, video: 07096.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_spelling.swf
+INFO:root:gloss: book, video: 07097.
+INFO:root:Requesting http://www.aslpro.com/main/b/book.swf
+INFO:root:gloss: book, video: 07070.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1466684225.687.mp4
+INFO:root:gloss: book, video: 07098.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_trigonometry.swf
+INFO:root:gloss: book, video: 07099.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/book.mp4
+INFO:root:gloss: book, video: 07071.
+INFO:root:Requesting https://www.handspeak.com/word/b/book2.mp4
+ERROR:root:Unsuccessful downloading - video 07071
+INFO:root:gloss: book, video: 07072.
+INFO:root:Requesting https://www.handspeak.com/word/b/book.mp4
+ERROR:root:Unsuccessful downloading - video 07072
+INFO:root:gloss: book, video: 07073.
+INFO:root:Requesting https://www.handspeak.com/word/b/books-pile.mp4
+ERROR:root:Unsuccessful downloading - video 07073
+INFO:root:gloss: book, video: 67424.
+WARNING:root:Skipping YouTube video 67424
+INFO:root:gloss: book, video: 07074.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14326.mp4
+INFO:root:gloss: book, video: 07075.
+WARNING:root:Skipping YouTube video 07075
+INFO:root:gloss: book, video: 07076.
+WARNING:root:Skipping YouTube video 07076
+INFO:root:gloss: book, video: 07077.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_accounting.swf
+INFO:root:gloss: book, video: 07078.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_algebra.swf
+INFO:root:gloss: book, video: 07079.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_anatomy.swf
+INFO:root:gloss: book, video: 07080.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_art_history.swf
+INFO:root:gloss: book, video: 07081.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_art.swf
+INFO:root:gloss: book, video: 07082.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_business.swf
+INFO:root:gloss: book, video: 07083.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_chemistry.swf
+INFO:root:gloss: book, video: 07084.
+INFO:root:Requesting http://www.aslpro.com/main/b/book_coloring.swf
+INFO:root:gloss: drink, video: 69302.
+INFO:root:Requesting http://aslbricks.org/New/ASL-Videos/drink.mp4
+INFO:root:gloss: drink, video: 65539.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRINK-119.mp4
+ERROR:root:Unsuccessful downloading - video 65539
+INFO:root:gloss: drink, video: 70173.
+WARNING:root:Skipping YouTube video 70173
+INFO:root:gloss: drink, video: 68538.
+WARNING:root:Skipping YouTube video 68538
+INFO:root:gloss: drink, video: 68042.
+WARNING:root:Skipping YouTube video 68042
+INFO:root:gloss: drink, video: 68660.
+WARNING:root:Skipping YouTube video 68660
+INFO:root:gloss: drink, video: 68041.
+WARNING:root:Skipping YouTube video 68041
+INFO:root:gloss: drink, video: 17725.
+WARNING:root:Skipping YouTube video 17725
+INFO:root:gloss: drink, video: 17726.
+WARNING:root:Skipping YouTube video 17726
+INFO:root:gloss: drink, video: 17727.
+WARNING:root:Skipping YouTube video 17727
+INFO:root:gloss: drink, video: 17728.
+WARNING:root:Skipping YouTube video 17728
+INFO:root:gloss: drink, video: 17710.
+INFO:root:Requesting https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/drink.mp4
+INFO:root:gloss: drink, video: 17729.
+WARNING:root:Skipping YouTube video 17729
+INFO:root:gloss: drink, video: 17730.
+WARNING:root:Skipping YouTube video 17730
+INFO:root:gloss: drink, video: 17731.
+WARNING:root:Skipping YouTube video 17731
+INFO:root:gloss: drink, video: 17732.
+INFO:root:Requesting http://www.aslpro.com/main/d/drink.swf
+INFO:root:gloss: drink, video: 17733.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/drink-alcohol.mp4
+INFO:root:gloss: drink, video: 65540.
+INFO:root:Requesting https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRINK-120.mp4
+INFO:root:gloss: drink, video: 17734.
+INFO:root:Requesting http://www.aslsearch.com/signs/videos/drink.mp4
+INFO:root:gloss: drink, video: 17711.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Drink%20(correct)-0UzEF7ru0sQ.mp4
+INFO:root:gloss: drink, video: 17712.
+INFO:root:Requesting https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Drink-L6hHRIQzWBo.mp4
+INFO:root:gloss: drink, video: 17713.
+INFO:root:Requesting https://media.asldeafined.com/vocabulary/1467773819.9825.mp4
+INFO:root:gloss: drink, video: 17714.
+INFO:root:Requesting https://www.handspeak.com/word/d/drink2.mp4
+ERROR:root:Unsuccessful downloading - video 17714
+INFO:root:gloss: drink, video: 17715.
+INFO:root:Requesting https://www.handspeak.com/word/d/drink-alcohol.mp4
+ERROR:root:Unsuccessful downloading - video 17715
+INFO:root:gloss: drink, video: 17716.
+INFO:root:Requesting https://www.handspeak.com/word/d/drink-british.mp4
+ERROR:root:Unsuccessful downloading - video 17716
+INFO:root:gloss: drink, video: 17717.
+INFO:root:Requesting https://www.handspeak.com/word/d/drink.mp4
+ERROR:root:Unsuccessful downloading - video 17717
+INFO:root:gloss: drink, video: 17718.
+INFO:root:Requesting https://www.handspeak.com/word/d/drink-mug.mp4
+ERROR:root:Unsuccessful downloading - video 17718
+INFO:root:gloss: drink, video: 17709.
+INFO:root:Requesting https://media.spreadthesign.com/video/mp4/13/153289.mp4
+ERROR:root:Unsuccessful downloading - video 17709
+INFO:root:gloss: drink, video: 67594.
+WARNING:root:Skipping YouTube video 67594
+INFO:root:gloss: drink, video: 17719.
+INFO:root:Requesting https://www.handspeak.com/word/d/drink-plu.mp4
+ERROR:root:Unsuccessful downloading - video 17719
+INFO:root:gloss: drink, video: 17720.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/14/14885.mp4
+INFO:root:gloss: drink, video: 17721.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23388.mp4
+INFO:root:gloss: drink, video: 17722.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23388.mp4
+INFO:root:gloss: drink, video: 17723.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/23/23389.mp4
+INFO:root:gloss: drink, video: 17724.
+INFO:root:Requesting https://www.signingsavvy.com/signs/mp4/7/7796.mp4
